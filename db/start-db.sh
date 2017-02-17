@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # run the image 'mysql' and call it 'db2'
 # map the port 192.168.99.100:3306 to port 3306 in the container
 # Creates a database 'myapp' that can be accessed with root and no password
